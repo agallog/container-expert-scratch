@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#https://katacoda.com/kontinu/courses/docker-bootcamp-fundamentals
 
 #? bash para recibir params
 # $@ = todos los params
